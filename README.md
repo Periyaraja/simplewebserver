@@ -114,7 +114,7 @@ httpd.serve_forever()
 ~~~
 
 ## OUTPUT:
-![WhatsApp Image 2025-05-18 at 18 12 15_a5d9b14d](https://github.com/user-attachments/assets/01404017-7613-4dad-a684-550d8e5f363c)
+![444888137-01404017-7613-4dad-a684-550d8e5f363c](https://github.com/user-attachments/assets/505c8c74-95ad-4815-9e1c-68c6a23eb0db)
 
 
 ## RESULT:
